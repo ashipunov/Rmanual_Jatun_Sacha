@@ -1,0 +1,83 @@
+\documentclass[12pt]{report} % change if you want, e.g., smaller fonts
+\usepackage{%
+graphicx,
+hyperref,
+geometry,
+url,
+parskip,
+PTSerif} % change the font package if needed
+
+% Page size (A5), change it to the size you need
+\geometry{paperheight=210mm,paperwidth=148mm,margin=14mm,top=26mm}
+
+% ===
+
+% Define sections
+\newcommand{\FF}[1]{\section{#1}}
+\renewcommand{\thesection}{\arabic{section}} % there are no chapters
+
+% Define species names
+\newcommand{\KK}[1]{\textit{#1}}
+\newcommand{\SP}[1]{{\bigskip\noindent\textbf{#1}\par\nopagebreak[4]\smallskip}}
+
+% Define images
+\newcommand{\I}[1]{\includegraphics[width=.95\textwidth]{images/thumbs/#1}\quad}
+\newcommand{\II}[1]{{\nopagebreak\medskip\raggedright\noindent\leftskip1.2em #1\par\bigskip}}
+
+% Define text descriptions
+\newcommand{\DD}[1]{{\noindent\leftskip1.2em\small\textbf{Description:} #1.\par}}
+
+% ===
+
+% Now make title page
+\title{Plants of Jatun Sacha, Ecuador}
+\author{Illustrated checklist of the most collected plants}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\tableofcontents
+
+\sloppy % useful because it is hard to control "0body" manually
+
+\newpage
+
+\section*{Introduction}
+
+Plants were selected to this manual from the checklist available here at
+\url{http://www.mobot.org/MOBOT/research/ecuador/jatun/checklist.shtml}
+
+This checklist was processed with TNRS
+(\url{http://tnrs.iplantcollaborative.org/TNRSapp.html}) to unify names
+and authorships and also obtain names of families. Next, R script
+determined which plants were collected most. I choosed 100 plants
+collected more than 11 times plus some random, less collected plants.
+Next, photographs of each species were obtained\footnote{This checklist
+is intended exclusively for the educational, non-commercial use.}, and
+converted into smaller \emph{rectangular} thumbnails.
+
+Finally, the \textsf{Rmanual} artificial example was taken as source, and
+I started to make this checklist. This making process included (1)
+creation of tables, (2) tuning the \textsf{R} script and (3) running
+\TeX\ and tuning the resulted PDF. The total time spent on this stage was
+1 hour and 45 minutes.
+
+Then a took a libery to enchance this variant of \textsf{Rmanual} and
+added the possibility to insert species descriptions, each as separate
+text file from \texttt{txts} directory. It was done only for one species,
+but it is possible now to add descriptions for all listed species.
+
+This manual is intended exclusively for educational, non-commercial use.
+All rights belong to the copyright holder(s).
+
+\bigskip
+
+\hfill\emph{Alexey Shipunov}
+
+\newpage
+
+\input 0body
+
+\end{document}

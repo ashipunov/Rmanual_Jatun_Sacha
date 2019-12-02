@@ -1,0 +1,122 @@
+Acalypha aristata	Kunth
+Acalypha cuneata	Poepp.
+Acalypha diversifolia	Jacq.
+Ampelocera longissima	Todzia
+Anaxagorea phaeocarpa	Mart.
+Anthurium apaporanum	R.E.Schult.
+Anthurium breviscapum	Kunth
+Anthurium ceronii	Croat
+Anthurium colonense	Croat
+Anthurium decurrens	Poepp.
+Anthurium ernestii	Engl.
+Anthurium gracile	(Rudge) Lindl.
+Anthurium obtusum	(Engl.) Grayum
+Apeiba glabra	Aubl.
+Aphelandra aurantiaca	(Scheidw.) Lindl.
+Batocarpus orinocensis	H.Karst.
+Casearia combaymensis	Tul.
+Casearia pitumba	Sleumer
+Celtis iguanaea	(Jacq.) Sarg.
+Chimarrhis glabriflora	Ducke
+Chimarrhis hookeri	K.Schum.
+Chrysophyllum venezuelanense	(Pierre) T.D.Penn.
+Citharexylum poeppigii	Walp.
+Clarisia biflora	Ruiz & Pav.
+Clavija venosa	B.Ståhl
+Clavija weberbaueri	Mez
+Colubrina spinosa	Donn.Sm.
+Compsoneura sprucei	(A.DC.) Warb.
+Conceveiba guianensis	Aubl.
+Cremastosperma gracilipes	R.E.Fr.
+Dacryodes peruviana	(Loes.) H.J.Lam
+Dendropanax caucanus	(Harms) Harms
+Diastema scabrum	(Poepp.) Benth. ex Walp.
+Diplopterys pubipetala	(A.Juss.) W.R.Anderson & C.Davis
+Drypetes amazonica	Steyerm.
+Duroia hirsuta	(Poepp.) K.Schum.
+Erisma uncinatum	Warm.
+Faramea glandulosa	Poepp.
+Ficus maxima	Mill.
+Ficus mutisii	Dugand
+Geonoma macrostachys	Mart.
+Grias neuberthii	J.F.Macbr.
+Guarea guidonia	(L.) Sleumer
+Guarea kunthiana	A.Juss.
+Guarea macrophylla	Vahl
+Guarea pterorhachis	Harms
+Guarea purusana	C.DC.
+Gustavia longifolia	Poepp. ex O.Berg
+Hasseltia floribunda	Kunth
+Heisteria spruceana	Engl.
+Inga acreana	Harms
+Inga ciliata subsp. subcapitata	T.D.Penn.
+Inga multinervis	T.D.Penn.
+Inga ruiziana	G.Don
+Inga tenuistipula	Ducke
+Inga vismiifolia	Poepp.
+Iryanthera juruensis	Warb.
+Lacistema aggregatum	(P.J.Bergius) Rusby
+Leonia glycycarpa	Ruiz & Pav.
+Lunania parviflora	Spruce ex Benth.
+Mabea caudata	Pax & K.Hoffm.
+Maieta guianensis	Aubl.
+Margaritaria nobilis	L.f.
+Mayna odorata	Aubl.
+Miconia nutans	Donn. Sm.
+Minquartia guianensis	Aubl.
+Mollinedia ovata	Ruiz & Pav.
+Naucleopsis ulei	(Warb.) Ducke
+Nectandra coeloclada	Rohwer
+Nectandra crassiloba	Rohwer
+Ossaea macrophylla	(Benth.) Cogn.
+Osteophloeum platyspermum	(Spruce ex A.DC.) Warb.
+Otoba glycycarpa	(Ducke) W.A.Rodrigues & T.S.Jaram.
+Otoba parvifolia	(Markgr.) A.H.Gentry
+Palicourea jatun-sachensis	C.M.Taylor
+Pecluma pectinata	(L.) M.G. Price
+Pentagonia macrophylla	Benth.
+Pentagonia spathicalyx	K.Schum.
+Perebea xanthochyma	H.Karst.
+Philodendron asplundii	Croat & M.L.Soares
+Pityrogramma trifoliata	(L.) R.M. Tryon
+Pleuranthodendron lindenii	(Turcz.) Sleumer
+Pourouma minor	Benoist
+Pouteria torta	(Mart.) Radlk.
+Protium amazonicum	(Cuatrec.) Daly
+Protium nodulosum	Swart
+Psammisia roseiflora	Sleumer
+Pseudolmedia laevis	(Ruiz & Pav.) J.F.Macbr.
+Psychotria flaviflora	(K.Krause) C.M.Taylor
+Psychotria officinalis	(Aubl.) Raeusch. ex Sandwith
+Psychotria stenostachya	Standl.
+Psychotria viridis	Ruiz & Pav.
+Quararibea obliquifolia	(Standl.) Standl.
+Renealmia breviscapa	Poepp. & Endl.
+Renealmia monosperma	Miq.
+Rollinia pittieri	Saff.
+Schefflera sprucei	(Seem.) Harms
+Siparuna cervicornis	Perkins
+Siparuna macrotepala	Perkins
+Siparuna schimpffii	Diels
+Siparuna thecaphora	(Poepp. & Endl.) A.DC.
+Solanum sessile	Ruiz & Pav.
+Sorocea muriculata	Miq.
+Sorocea steinbachii	C.C. Berg
+Sterculia apeibophylla	Ducke
+Sterculia tessmannii	Mildbr.
+Tabernaemontana sananho	Ruiz & Pav.
+Tetragastris panamensis	(Engl.) Kuntze
+Tetrapterys calophylla	A. Juss.
+Tetrapterys discolor	(G.Mey.) DC.
+Tetrathylacium macrophyllum	Poepp.
+Tetrorchidium macrophyllum	Müll.Arg.
+Tetrorchidium rubrivenium	Poepp.
+Theobroma subincanum	Mart.
+Tournefortia bicolor	Sw.
+Tovomitopsis membranacea	(Planch. & Triana) D'Arcy
+Trema integerrima	(Beurl.) Standl.
+Trichilia laxipaniculata	Cuatrec.
+Vigna caracalla	(L.)Verdc.
+Virola calophylla	(Spruce) Warb.
+Virola elongata	(Benth.) Warb.
+Virola pavonis	(A.DC.) A.C.Sm.

@@ -1,0 +1,8 @@
+Apiaceae	Umbelliferae
+Asteraceae	Compositae
+Brassicaceae	Cruciferae
+Clusiaceae	Guttiferae
+Fabaceae	Leguminosae
+Lamiaceae	Labiatae
+Arecaceae	Palmae
+Poaceae	Gramineae

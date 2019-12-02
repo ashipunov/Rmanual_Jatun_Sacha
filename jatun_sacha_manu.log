@@ -1,0 +1,1376 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.11.28)  2 DEC 2019 17:08
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**jatun_sacha_manu.tex
+(./jatun_sacha_manu.tex
+LaTeX2e <2019-10-01> patch level 3
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2019/10/25 v1.4k Standard LaTeX document class
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics
+.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.d
+ef
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2019/11/10 v7.00c Hypertext links for LaTeX
+
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ltxcmds.st
+y
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+) (/home/alexey/bin/local/texlive/2019/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/latex/pdftexcmds/pdftexcmds
+.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/generic/oberdiek/infwarerr.
+sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/generic/oberdiek/kvsetkeys.
+sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/generic/oberdiek/etexcmds.s
+ty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)))
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/generic/oberdiek/kvdefineke
+ys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+)
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/generic/oberdiek/pdfescape.
+sty
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+)
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/latex/oberdiek/hycolor.sty
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/latex/oberdiek/xcolor-patch
+.sty
+Package: xcolor-patch 2016/05/16 xcolor patch
+
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/latex/oberdiek/hopatch.sty
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+)))
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/latex/oberdiek/letltxmacro.
+sty
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+)
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.st
+y
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen105
+\Hy@linkcounter=\count89
+\Hy@pagecounter=\count90
+
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2019/11/10 v7.00c Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/generic/oberdiek/intcalc.st
+y
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count91
+
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.
+cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4535.
+Package hyperref Info: Link nesting OFF on input line 4540.
+Package hyperref Info: Hyper index ON on input line 4543.
+Package hyperref Info: Plain pages OFF on input line 4550.
+Package hyperref Info: Backreferencing OFF on input line 4555.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4788.
+\c@Hy@tempcnt=\count92
+ (/home/alexey/bin/local/texlive/2019/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5147.
+\XeTeXLinkMargin=\dimen106
+
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/generic/oberdiek/bitset.sty
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/generic/oberdiek/bigintcalc
+.sty
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count93
+\Field@Width=\dimen107
+\Fld@charsize=\dimen108
+Package hyperref Info: Hyper figures OFF on input line 6418.
+Package hyperref Info: Link nesting OFF on input line 6423.
+Package hyperref Info: Hyper index ON on input line 6426.
+Package hyperref Info: backreferencing OFF on input line 6433.
+Package hyperref Info: Link coloring OFF on input line 6438.
+Package hyperref Info: Link coloring with OCG OFF on input line 6443.
+Package hyperref Info: PDF/A mode OFF on input line 6448.
+LaTeX Info: Redefining \ref on input line 6488.
+LaTeX Info: Redefining \pageref on input line 6492.
+
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/generic/oberdiek/atbegshi.s
+ty
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+ (/home/alexey/bin/local/texlive/2019/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+))
+\Hy@abspage=\count94
+\c@Item=\count95
+\c@Hfootnote=\count96
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2019/11/10 v7.00c Hyperref driver for pdfTeX
+
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/latex/oberdiek/atveryend.st
+y
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count97
+\c@bookmark@seq@number=\count98
+
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfileche
+ck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/generic/oberdiek/uniquecoun
+ter.sty
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip43
+)
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count99
+\Gm@cntv=\count100
+\c@Gm@tempcnt=\count101
+\Gm@bindingoffset=\dimen109
+\Gm@wd@mp=\dimen110
+\Gm@odd@mp=\dimen111
+\Gm@even@mp=\dimen112
+\Gm@layoutwidth=\dimen113
+\Gm@layoutheight=\dimen114
+\Gm@layouthoffset=\dimen115
+\Gm@layoutvoffset=\dimen116
+\Gm@dimlist=\toks15
+) (/home/alexey/bin/local/texlive/2019/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2019-01-16 v2.0c non-zero parskip adjustments
+
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count102
+))
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/latex/paratype/PTSerif.sty
+Package: PTSerif 2011/02/10 Style file for PTSerif.
+) (./jatun_sacha_manu.aux)
+\openout1 = `jatun_sacha_manu.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Trying to load font information for OT1+PTSerif-TLF on inpu
+t line 37.
+
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/latex/paratype/OT1PTSerif-T
+LF.fd
+File: OT1PTSerif-TLF.fd 2014/02/02 Font definitions for OT1/PTSerif-TLF.
+)
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.
+mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count103
+\scratchdimen=\dimen117
+\scratchbox=\box27
+\nofMPsegments=\count104
+\nofMParguments=\count105
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count106
+\MPscratchDim=\dimen118
+\MPnumerator=\count107
+\makeMPintoPDFobject=\count108
+\everyMPtoPDFconversion=\toks17
+)
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/latex/epstopdf-pkg/epstopdf
+-base.sty
+Package: epstopdf-base 2019/11/24 v2.7 Base part for package epstopdf
+
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+42.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 460.
+
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-
+sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box28
+Package hyperref Info: Link coloring OFF on input line 37.
+
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/latex/oberdiek/refcount.sty
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+)
+(/home/alexey/bin/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlest
+ring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count109
+)
+LaTeX Info: Redefining \ref on input line 37.
+LaTeX Info: Redefining \pageref on input line 37.
+LaTeX Info: Redefining \nameref on input line 37.
+ (./jatun_sacha_manu.out) (./jatun_sacha_manu.out)
+\@outlinefile=\write3
+\openout3 = `jatun_sacha_manu.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(39.83385pt, 341.43309pt, 39.83385pt)
+* v-part:(T,H,B)=(73.97716pt, 483.69687pt, 39.83385pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=341.43309pt
+* \textheight=483.69687pt
+* \oddsidemargin=-32.43614pt
+* \evensidemargin=-32.43614pt
+* \topmargin=-35.29283pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 40.
+[1
+
+{/home/alexey/bin/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.m
+ap}]
+LaTeX Font Info:    Font shape `OT1/PTSerif-TLF/bx/n' in size <24.88> not avail
+able
+(Font)              Font shape `OT1/PTSerif-TLF/b/n' tried instead on input lin
+e 41.
+ (./jatun_sacha_manu.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 1.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.25 ...ily \textit {Olacaceae}}{85}{section.0.25}
+                                                  % [1
+
+]
+Overfull \hbox (0.58795pt too wide) detected at line 34
+ \OT1/PTSerif-TLF/m/n/12 106
+ []
+
+
+Overfull \hbox (0.58795pt too wide) detected at line 35
+ \OT1/PTSerif-TLF/m/n/12 112
+ []
+
+
+Overfull \hbox (0.58795pt too wide) detected at line 36
+ \OT1/PTSerif-TLF/m/n/12 114
+ []
+
+
+Overfull \hbox (0.58795pt too wide) detected at line 37
+ \OT1/PTSerif-TLF/m/n/12 118
+ []
+
+
+Overfull \hbox (0.58795pt too wide) detected at line 38
+ \OT1/PTSerif-TLF/m/n/12 119
+ []
+
+
+Overfull \hbox (0.58795pt too wide) detected at line 39
+ \OT1/PTSerif-TLF/m/n/12 120
+ []
+
+
+Overfull \hbox (0.58795pt too wide) detected at line 40
+ \OT1/PTSerif-TLF/m/n/12 121
+ []
+
+
+Overfull \hbox (0.58795pt too wide) detected at line 41
+ \OT1/PTSerif-TLF/m/n/12 122
+ []
+
+
+Overfull \hbox (0.58795pt too wide) detected at line 42
+ \OT1/PTSerif-TLF/m/n/12 123
+ []
+
+
+Overfull \hbox (0.58795pt too wide) detected at line 43
+ \OT1/PTSerif-TLF/m/n/12 124
+ []
+
+)
+\tf@toc=\write4
+\openout4 = `jatun_sacha_manu.toc'.
+
+ [2]
+LaTeX Font Info:    Font shape `OT1/PTSerif-TLF/bx/n' in size <17.28> not avail
+able
+(Font)              Font shape `OT1/PTSerif-TLF/b/n' tried instead on input lin
+e 47.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 58.
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--60
+[]\OT1/PTSerif-TLF/m/n/12 This check-list was pro-cessed with TNRS ([]$\OT1/cmt
+t/m/n/12 http : / / tnrs .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--60
+\OT1/cmtt/m/n/12 iplantcollaborative . org / TNRSapp . html$[]\OT1/PTSerif-TLF/
+m/n/12 ) to unify names
+ []
+
+
+Underfull \hbox (badness 3930) in paragraph at lines 72--74
+[]\OT1/PTSerif-TLF/m/n/12 This man-ual is in-tended ex-clu-sively for ed-u-ca-t
+ional, non-
+ []
+
+[3] (./0body
+LaTeX Font Info:    Font shape `OT1/PTSerif-TLF/bx/it' in size <17.28> not avai
+lable
+(Font)              Font shape `OT1/PTSerif-TLF/b/it' tried instead on input li
+ne 1.
+LaTeX Font Info:    Font shape `OT1/PTSerif-TLF/bx/n' in size <12> not availabl
+e
+(Font)              Font shape `OT1/PTSerif-TLF/b/n' tried instead on input lin
+e 1.
+LaTeX Font Info:    Font shape `OT1/PTSerif-TLF/bx/it' in size <12> not availab
+le
+(Font)              Font shape `OT1/PTSerif-TLF/b/it' tried instead on input li
+ne 1.
+<images/thumbs/aphelandra_aurantiaca.jpg, id=249, 642.4pt x 642.4pt>
+File: images/thumbs/aphelandra_aurantiaca.jpg Graphic file (type jpg)
+<use images/thumbs/aphelandra_aurantiaca.jpg>
+Package pdftex.def Info: images/thumbs/aphelandra_aurantiaca.jpg  used on input
+ line 1.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+<images/thumbs/mayna_odorata.jpg, id=250, 642.4pt x 642.4pt>
+File: images/thumbs/mayna_odorata.jpg Graphic file (type jpg)
+<use images/thumbs/mayna_odorata.jpg>
+Package pdftex.def Info: images/thumbs/mayna_odorata.jpg  used on input line 3.
+
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [4 <./images/thumbs/aphelandra_aurantiaca.jpg>]
+<images/thumbs/anaxagorea_phaeocarpa.jpg, id=256, 642.4pt x 642.4pt>
+File: images/thumbs/anaxagorea_phaeocarpa.jpg Graphic file (type jpg)
+<use images/thumbs/anaxagorea_phaeocarpa.jpg>
+Package pdftex.def Info: images/thumbs/anaxagorea_phaeocarpa.jpg  used on input
+ line 5.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [5 <./images/thumbs/mayna_odorata.jpg>]
+<images/thumbs/cremastosperma_gracilipes.jpg, id=261, 642.4pt x 642.4pt>
+File: images/thumbs/cremastosperma_gracilipes.jpg Graphic file (type jpg)
+<use images/thumbs/cremastosperma_gracilipes.jpg>
+Package pdftex.def Info: images/thumbs/cremastosperma_gracilipes.jpg  used on i
+nput line 7.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [6 <./images/thumbs/anaxagorea_phaeocarpa.jpg>]
+<images/thumbs/rollinia_pittieri.jpg, id=267, 642.4pt x 642.4pt>
+File: images/thumbs/rollinia_pittieri.jpg Graphic file (type jpg)
+<use images/thumbs/rollinia_pittieri.jpg>
+Package pdftex.def Info: images/thumbs/rollinia_pittieri.jpg  used on input lin
+e 9.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [7 <./images/thumbs/cremastosperma_gracilipes.jpg>]
+<images/thumbs/tabernaemontana_sananho.jpg, id=272, 642.4pt x 642.4pt>
+File: images/thumbs/tabernaemontana_sananho.jpg Graphic file (type jpg)
+<use images/thumbs/tabernaemontana_sananho.jpg>
+Package pdftex.def Info: images/thumbs/tabernaemontana_sananho.jpg  used on inp
+ut line 11.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [8 <./images/thumbs/rollinia_pittieri.jpg>]
+<images/thumbs/anthurium_apaporanum.jpg, id=277, 642.4pt x 642.4pt>
+File: images/thumbs/anthurium_apaporanum.jpg Graphic file (type jpg)
+<use images/thumbs/anthurium_apaporanum.jpg>
+Package pdftex.def Info: images/thumbs/anthurium_apaporanum.jpg  used on input 
+line 13.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [9 <./images/thumbs/tabernaemontana_sananho.jpg>]
+<images/thumbs/anthurium_breviscapum.jpg, id=282, 642.4pt x 642.4pt>
+File: images/thumbs/anthurium_breviscapum.jpg Graphic file (type jpg)
+<use images/thumbs/anthurium_breviscapum.jpg>
+Package pdftex.def Info: images/thumbs/anthurium_breviscapum.jpg  used on input
+ line 15.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [10 <./images/thumbs/anthurium_apaporanum.jpg>]
+<images/thumbs/anthurium_ceronii.jpg, id=287, 642.4pt x 642.4pt>
+File: images/thumbs/anthurium_ceronii.jpg Graphic file (type jpg)
+<use images/thumbs/anthurium_ceronii.jpg>
+Package pdftex.def Info: images/thumbs/anthurium_ceronii.jpg  used on input lin
+e 17.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [11 <./images/thumbs/anthurium_breviscapum.jpg>]
+<images/thumbs/anthurium_colonense.jpg, id=292, 642.4pt x 642.4pt>
+File: images/thumbs/anthurium_colonense.jpg Graphic file (type jpg)
+<use images/thumbs/anthurium_colonense.jpg>
+Package pdftex.def Info: images/thumbs/anthurium_colonense.jpg  used on input l
+ine 19.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+
+[12 <./images/thumbs/anthurium_ceronii.jpg>]
+<images/thumbs/anthurium_decurrens.jpg, id=298, 642.4pt x 642.4pt>
+File: images/thumbs/anthurium_decurrens.jpg Graphic file (type jpg)
+<use images/thumbs/anthurium_decurrens.jpg>
+Package pdftex.def Info: images/thumbs/anthurium_decurrens.jpg  used on input l
+ine 21.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [13 <./images/thumbs/anthurium_colonense.jpg>]
+<images/thumbs/anthurium_ernestii.jpg, id=303, 642.4pt x 642.4pt>
+File: images/thumbs/anthurium_ernestii.jpg Graphic file (type jpg)
+<use images/thumbs/anthurium_ernestii.jpg>
+Package pdftex.def Info: images/thumbs/anthurium_ernestii.jpg  used on input li
+ne 23.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [14 <./images/thumbs/anthurium_decurrens.jpg>]
+<images/thumbs/anthurium_gracile.jpg, id=308, 642.4pt x 642.4pt>
+File: images/thumbs/anthurium_gracile.jpg Graphic file (type jpg)
+<use images/thumbs/anthurium_gracile.jpg>
+Package pdftex.def Info: images/thumbs/anthurium_gracile.jpg  used on input lin
+e 25.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [15 <./images/thumbs/anthurium_ernestii.jpg>]
+<images/thumbs/anthurium_obtusum.jpg, id=313, 642.4pt x 642.4pt>
+File: images/thumbs/anthurium_obtusum.jpg Graphic file (type jpg)
+<use images/thumbs/anthurium_obtusum.jpg>
+Package pdftex.def Info: images/thumbs/anthurium_obtusum.jpg  used on input lin
+e 27.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [16 <./images/thumbs/anthurium_gracile.jpg>]
+<images/thumbs/philodendron_asplundii.jpg, id=318, 642.4pt x 642.4pt>
+File: images/thumbs/philodendron_asplundii.jpg Graphic file (type jpg)
+<use images/thumbs/philodendron_asplundii.jpg>
+Package pdftex.def Info: images/thumbs/philodendron_asplundii.jpg  used on inpu
+t line 29.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+
+[17 <./images/thumbs/anthurium_obtusum.jpg>]
+<images/thumbs/dendropanax_caucanus.jpg, id=323, 642.4pt x 642.4pt>
+File: images/thumbs/dendropanax_caucanus.jpg Graphic file (type jpg)
+<use images/thumbs/dendropanax_caucanus.jpg>
+Package pdftex.def Info: images/thumbs/dendropanax_caucanus.jpg  used on input 
+line 31.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [18 <./images/thumbs/philodendron_asplundii.jpg>]
+<images/thumbs/schefflera_sprucei.jpg, id=329, 642.4pt x 642.4pt>
+File: images/thumbs/schefflera_sprucei.jpg Graphic file (type jpg)
+<use images/thumbs/schefflera_sprucei.jpg>
+Package pdftex.def Info: images/thumbs/schefflera_sprucei.jpg  used on input li
+ne 33.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [19 <./images/thumbs/dendropanax_caucanus.jpg>]
+<images/thumbs/tournefortia_bicolor.jpg, id=335, 642.4pt x 642.4pt>
+File: images/thumbs/tournefortia_bicolor.jpg Graphic file (type jpg)
+<use images/thumbs/tournefortia_bicolor.jpg>
+Package pdftex.def Info: images/thumbs/tournefortia_bicolor.jpg  used on input 
+line 35.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [20 <./images/thumbs/schefflera_sprucei.jpg>]
+<images/thumbs/dacryodes_peruviana.jpg, id=340, 642.4pt x 642.4pt>
+File: images/thumbs/dacryodes_peruviana.jpg Graphic file (type jpg)
+<use images/thumbs/dacryodes_peruviana.jpg>
+Package pdftex.def Info: images/thumbs/dacryodes_peruviana.jpg  used on input l
+ine 37.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [21 <./images/thumbs/tournefortia_bicolor.jpg>]
+<images/thumbs/protium_amazonicum.jpg, id=345, 642.4pt x 642.4pt>
+File: images/thumbs/protium_amazonicum.jpg Graphic file (type jpg)
+<use images/thumbs/protium_amazonicum.jpg>
+Package pdftex.def Info: images/thumbs/protium_amazonicum.jpg  used on input li
+ne 39.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+
+[22 <./images/thumbs/dacryodes_peruviana.jpg>]
+<images/thumbs/protium_nodulosum.jpg, id=350, 642.4pt x 642.4pt>
+File: images/thumbs/protium_nodulosum.jpg Graphic file (type jpg)
+<use images/thumbs/protium_nodulosum.jpg>
+Package pdftex.def Info: images/thumbs/protium_nodulosum.jpg  used on input lin
+e 41.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [23 <./images/thumbs/protium_amazonicum.jpg>]
+<images/thumbs/tetragastris_panamensis.jpg, id=355, 642.4pt x 642.4pt>
+File: images/thumbs/tetragastris_panamensis.jpg Graphic file (type jpg)
+<use images/thumbs/tetragastris_panamensis.jpg>
+Package pdftex.def Info: images/thumbs/tetragastris_panamensis.jpg  used on inp
+ut line 43.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [24 <./images/thumbs/protium_nodulosum.jpg>]
+<images/thumbs/celtis_iguanaea.jpg, id=361, 642.4pt x 642.4pt>
+File: images/thumbs/celtis_iguanaea.jpg Graphic file (type jpg)
+<use images/thumbs/celtis_iguanaea.jpg>
+Package pdftex.def Info: images/thumbs/celtis_iguanaea.jpg  used on input line 
+45.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [25 <./images/thumbs/tetragastris_panamensis.jpg>]
+<images/thumbs/trema_integerrima.jpg, id=366, 642.4pt x 642.4pt>
+File: images/thumbs/trema_integerrima.jpg Graphic file (type jpg)
+<use images/thumbs/trema_integerrima.jpg>
+Package pdftex.def Info: images/thumbs/trema_integerrima.jpg  used on input lin
+e 47.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [26 <./images/thumbs/celtis_iguanaea.jpg>]
+<images/thumbs/psammisia_roseiflora2.jpg, id=371, 642.4pt x 642.4pt>
+File: images/thumbs/psammisia_roseiflora2.jpg Graphic file (type jpg)
+<use images/thumbs/psammisia_roseiflora2.jpg>
+Package pdftex.def Info: images/thumbs/psammisia_roseiflora2.jpg  used on input
+ line 49.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+
+[27 <./images/thumbs/trema_integerrima.jpg>]
+<images/thumbs/acalypha_aristata.jpg, id=376, 642.4pt x 642.4pt>
+File: images/thumbs/acalypha_aristata.jpg Graphic file (type jpg)
+<use images/thumbs/acalypha_aristata.jpg>
+Package pdftex.def Info: images/thumbs/acalypha_aristata.jpg  used on input lin
+e 51.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [28 <./images/thumbs/psammisia_roseiflora2.jpg>]
+<images/thumbs/acalypha_cuneata.jpg, id=381, 642.4pt x 642.4pt>
+File: images/thumbs/acalypha_cuneata.jpg Graphic file (type jpg)
+<use images/thumbs/acalypha_cuneata.jpg>
+Package pdftex.def Info: images/thumbs/acalypha_cuneata.jpg  used on input line
+ 53.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [29 <./images/thumbs/acalypha_aristata.jpg>]
+LaTeX Font Info:    Font shape `OT1/PTSerif-TLF/bx/n' in size <10.95> not avail
+able
+(Font)              Font shape `OT1/PTSerif-TLF/b/n' tried instead on input lin
+e 53.
+
+Underfull \hbox (badness 1297) in paragraph at lines 53--53
+ \OT1/PTSerif-TLF/m/n/10.95 firm-membranous, cre-nate or callous-denticulate ex
+-cept to-ward
+ []
+
+[30 <./images/thumbs/acalypha_cuneata.jpg>]
+<images/thumbs/acalypha_diversifolia.jpg, id=391, 642.4pt x 642.4pt>
+File: images/thumbs/acalypha_diversifolia.jpg Graphic file (type jpg)
+<use images/thumbs/acalypha_diversifolia.jpg>
+Package pdftex.def Info: images/thumbs/acalypha_diversifolia.jpg  used on input
+ line 55.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+<images/thumbs/conceveiba_guianensis.jpg, id=392, 642.4pt x 642.4pt>
+File: images/thumbs/conceveiba_guianensis.jpg Graphic file (type jpg)
+<use images/thumbs/conceveiba_guianensis.jpg>
+Package pdftex.def Info: images/thumbs/conceveiba_guianensis.jpg  used on input
+ line 57.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [31 <./images/thumbs/acalypha_diversifolia.jpg>]
+<images/thumbs/mabea_caudata.jpg, id=397, 642.4pt x 642.4pt>
+File: images/thumbs/mabea_caudata.jpg Graphic file (type jpg)
+<use images/thumbs/mabea_caudata.jpg>
+Package pdftex.def Info: images/thumbs/mabea_caudata.jpg  used on input line 59
+.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [32 <./images/thumbs/conceveiba_guianensis.jpg>]
+<images/thumbs/tetrorchidium_macrophyllum.jpg, id=402, 642.4pt x 642.4pt>
+File: images/thumbs/tetrorchidium_macrophyllum.jpg Graphic file (type jpg)
+<use images/thumbs/tetrorchidium_macrophyllum.jpg>
+Package pdftex.def Info: images/thumbs/tetrorchidium_macrophyllum.jpg  used on 
+input line 61.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [33 <./images/thumbs/mabea_caudata.jpg>]
+<images/thumbs/tetrorchidium_rubrivenium.jpg, id=407, 642.4pt x 642.4pt>
+File: images/thumbs/tetrorchidium_rubrivenium.jpg Graphic file (type jpg)
+<use images/thumbs/tetrorchidium_rubrivenium.jpg>
+Package pdftex.def Info: images/thumbs/tetrorchidium_rubrivenium.jpg  used on i
+nput line 63.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [34 <./images/thumbs/tetrorchidium_macrophyllum.jpg>]
+<images/thumbs/diastema_scabrum.jpg, id=412, 642.4pt x 642.4pt>
+File: images/thumbs/diastema_scabrum.jpg Graphic file (type jpg)
+<use images/thumbs/diastema_scabrum.jpg>
+Package pdftex.def Info: images/thumbs/diastema_scabrum.jpg  used on input line
+ 65.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+
+[35 <./images/thumbs/tetrorchidium_rubrivenium.jpg>]
+<images/thumbs/tovomitopsis_membranacea.jpg, id=417, 642.4pt x 642.4pt>
+File: images/thumbs/tovomitopsis_membranacea.jpg Graphic file (type jpg)
+<use images/thumbs/tovomitopsis_membranacea.jpg>
+Package pdftex.def Info: images/thumbs/tovomitopsis_membranacea.jpg  used on in
+put line 67.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [36 <./images/thumbs/diastema_scabrum.jpg>]
+<images/thumbs/lacistema_aggregatum.jpg, id=423, 642.4pt x 642.4pt>
+File: images/thumbs/lacistema_aggregatum.jpg Graphic file (type jpg)
+<use images/thumbs/lacistema_aggregatum.jpg>
+Package pdftex.def Info: images/thumbs/lacistema_aggregatum.jpg  used on input 
+line 69.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [37 <./images/thumbs/tovomitopsis_membranacea.jpg>]
+<images/thumbs/nectandra_coeloclada.jpg, id=428, 642.4pt x 642.4pt>
+File: images/thumbs/nectandra_coeloclada.jpg Graphic file (type jpg)
+<use images/thumbs/nectandra_coeloclada.jpg>
+Package pdftex.def Info: images/thumbs/nectandra_coeloclada.jpg  used on input 
+line 71.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [38 <./images/thumbs/lacistema_aggregatum.jpg>]
+<images/thumbs/nectandra_crassiloba.jpg, id=433, 642.4pt x 642.4pt>
+File: images/thumbs/nectandra_crassiloba.jpg Graphic file (type jpg)
+<use images/thumbs/nectandra_crassiloba.jpg>
+Package pdftex.def Info: images/thumbs/nectandra_crassiloba.jpg  used on input 
+line 73.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [39 <./images/thumbs/nectandra_coeloclada.jpg>]
+<images/thumbs/grias_neuberthii.jpg, id=438, 642.4pt x 642.4pt>
+File: images/thumbs/grias_neuberthii.jpg Graphic file (type jpg)
+<use images/thumbs/grias_neuberthii.jpg>
+Package pdftex.def Info: images/thumbs/grias_neuberthii.jpg  used on input line
+ 75.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [40 <./images/thumbs/nectandra_crassiloba.jpg>]
+<images/thumbs/gustavia_longifolia.jpg, id=443, 642.4pt x 642.4pt>
+File: images/thumbs/gustavia_longifolia.jpg Graphic file (type jpg)
+<use images/thumbs/gustavia_longifolia.jpg>
+Package pdftex.def Info: images/thumbs/gustavia_longifolia.jpg  used on input l
+ine 77.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [41 <./images/thumbs/grias_neuberthii.jpg>]
+<images/thumbs/inga_acreana.jpg, id=448, 642.4pt x 642.4pt>
+File: images/thumbs/inga_acreana.jpg Graphic file (type jpg)
+<use images/thumbs/inga_acreana.jpg>
+Package pdftex.def Info: images/thumbs/inga_acreana.jpg  used on input line 79.
+
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [42 <./images/thumbs/gustavia_longifolia.jpg>]
+<images/thumbs/inga_ciliata.jpg, id=454, 642.4pt x 642.4pt>
+File: images/thumbs/inga_ciliata.jpg Graphic file (type jpg)
+<use images/thumbs/inga_ciliata.jpg>
+Package pdftex.def Info: images/thumbs/inga_ciliata.jpg  used on input line 81.
+
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [43 <./images/thumbs/inga_acreana.jpg>]
+<images/thumbs/inga_multinervis.jpg, id=459, 642.4pt x 642.4pt>
+File: images/thumbs/inga_multinervis.jpg Graphic file (type jpg)
+<use images/thumbs/inga_multinervis.jpg>
+Package pdftex.def Info: images/thumbs/inga_multinervis.jpg  used on input line
+ 83.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [44 <./images/thumbs/inga_ciliata.jpg>]
+<images/thumbs/inga_ruiziana.jpg, id=464, 642.4pt x 642.4pt>
+File: images/thumbs/inga_ruiziana.jpg Graphic file (type jpg)
+<use images/thumbs/inga_ruiziana.jpg>
+Package pdftex.def Info: images/thumbs/inga_ruiziana.jpg  used on input line 85
+.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [45 <./images/thumbs/inga_multinervis.jpg>]
+<images/thumbs/inga_tenuistipula.jpg, id=469, 642.4pt x 642.4pt>
+File: images/thumbs/inga_tenuistipula.jpg Graphic file (type jpg)
+<use images/thumbs/inga_tenuistipula.jpg>
+Package pdftex.def Info: images/thumbs/inga_tenuistipula.jpg  used on input lin
+e 87.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [46 <./images/thumbs/inga_ruiziana.jpg>]
+<images/thumbs/inga_vismiifolia.jpg, id=474, 642.4pt x 642.4pt>
+File: images/thumbs/inga_vismiifolia.jpg Graphic file (type jpg)
+<use images/thumbs/inga_vismiifolia.jpg>
+Package pdftex.def Info: images/thumbs/inga_vismiifolia.jpg  used on input line
+ 89.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+
+[47 <./images/thumbs/inga_tenuistipula.jpg>]
+<images/thumbs/vigna_caracalla.jpg, id=479, 642.4pt x 642.4pt>
+File: images/thumbs/vigna_caracalla.jpg Graphic file (type jpg)
+<use images/thumbs/vigna_caracalla.jpg>
+Package pdftex.def Info: images/thumbs/vigna_caracalla.jpg  used on input line 
+91.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [48 <./images/thumbs/inga_vismiifolia.jpg>]
+<images/thumbs/diplopterys_pubipetala.jpg, id=486, 642.4pt x 642.4pt>
+File: images/thumbs/diplopterys_pubipetala.jpg Graphic file (type jpg)
+<use images/thumbs/diplopterys_pubipetala.jpg>
+Package pdftex.def Info: images/thumbs/diplopterys_pubipetala.jpg  used on inpu
+t line 93.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [49 <./images/thumbs/vigna_caracalla.jpg>]
+<images/thumbs/tetrapterys_calophylla.jpg, id=491, 642.4pt x 642.4pt>
+File: images/thumbs/tetrapterys_calophylla.jpg Graphic file (type jpg)
+<use images/thumbs/tetrapterys_calophylla.jpg>
+Package pdftex.def Info: images/thumbs/tetrapterys_calophylla.jpg  used on inpu
+t line 95.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [50 <./images/thumbs/diplopterys_pubipetala.jpg>]
+<images/thumbs/tetrapterys_discolor.jpg, id=496, 642.4pt x 642.4pt>
+File: images/thumbs/tetrapterys_discolor.jpg Graphic file (type jpg)
+<use images/thumbs/tetrapterys_discolor.jpg>
+Package pdftex.def Info: images/thumbs/tetrapterys_discolor.jpg  used on input 
+line 97.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [51 <./images/thumbs/tetrapterys_calophylla.jpg>]
+<images/thumbs/apeiba_glabra.jpg, id=501, 642.4pt x 642.4pt>
+File: images/thumbs/apeiba_glabra.jpg Graphic file (type jpg)
+<use images/thumbs/apeiba_glabra.jpg>
+Package pdftex.def Info: images/thumbs/apeiba_glabra.jpg  used on input line 99
+.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+
+[52 <./images/thumbs/tetrapterys_discolor.jpg>]
+<images/thumbs/quararibea_obliquifolia.jpg, id=506, 642.4pt x 642.4pt>
+File: images/thumbs/quararibea_obliquifolia.jpg Graphic file (type jpg)
+<use images/thumbs/quararibea_obliquifolia.jpg>
+Package pdftex.def Info: images/thumbs/quararibea_obliquifolia.jpg  used on inp
+ut line 101.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [53 <./images/thumbs/apeiba_glabra.jpg>]
+<images/thumbs/sterculia_apeibophylla.jpg, id=511, 642.4pt x 642.4pt>
+File: images/thumbs/sterculia_apeibophylla.jpg Graphic file (type jpg)
+<use images/thumbs/sterculia_apeibophylla.jpg>
+Package pdftex.def Info: images/thumbs/sterculia_apeibophylla.jpg  used on inpu
+t line 103.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [54 <./images/thumbs/quararibea_obliquifolia.jpg>]
+<images/thumbs/sterculia_tessmannii.jpg, id=517, 642.4pt x 642.4pt>
+File: images/thumbs/sterculia_tessmannii.jpg Graphic file (type jpg)
+<use images/thumbs/sterculia_tessmannii.jpg>
+Package pdftex.def Info: images/thumbs/sterculia_tessmannii.jpg  used on input 
+line 105.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [55 <./images/thumbs/sterculia_apeibophylla.jpg>]
+<images/thumbs/theobroma_subincanum.jpg, id=522, 642.4pt x 642.4pt>
+File: images/thumbs/theobroma_subincanum.jpg Graphic file (type jpg)
+<use images/thumbs/theobroma_subincanum.jpg>
+Package pdftex.def Info: images/thumbs/theobroma_subincanum.jpg  used on input 
+line 107.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [56 <./images/thumbs/sterculia_tessmannii.jpg>]
+<images/thumbs/maieta_guianensis.jpg, id=527, 642.4pt x 642.4pt>
+File: images/thumbs/maieta_guianensis.jpg Graphic file (type jpg)
+<use images/thumbs/maieta_guianensis.jpg>
+Package pdftex.def Info: images/thumbs/maieta_guianensis.jpg  used on input lin
+e 109.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+[57 <./images/thumbs/theobroma_subincanum.jpg>]
+<images/thumbs/miconia_nutans.jpg, id=532, 642.4pt x 642.4pt>
+File: images/thumbs/miconia_nutans.jpg Graphic file (type jpg)
+<use images/thumbs/miconia_nutans.jpg>
+Package pdftex.def Info: images/thumbs/miconia_nutans.jpg  used on input line 1
+11.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [58 <./images/thumbs/maieta_guianensis.jpg>]
+<images/thumbs/ossaea_macrophylla.jpg, id=537, 642.4pt x 642.4pt>
+File: images/thumbs/ossaea_macrophylla.jpg Graphic file (type jpg)
+<use images/thumbs/ossaea_macrophylla.jpg>
+Package pdftex.def Info: images/thumbs/ossaea_macrophylla.jpg  used on input li
+ne 113.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [59 <./images/thumbs/miconia_nutans.jpg>]
+<images/thumbs/guarea_guidonia.jpg, id=542, 642.4pt x 642.4pt>
+File: images/thumbs/guarea_guidonia.jpg Graphic file (type jpg)
+<use images/thumbs/guarea_guidonia.jpg>
+Package pdftex.def Info: images/thumbs/guarea_guidonia.jpg  used on input line 
+115.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [60 <./images/thumbs/ossaea_macrophylla.jpg>]
+<images/thumbs/guarea_kunthiana.jpg, id=548, 642.4pt x 642.4pt>
+File: images/thumbs/guarea_kunthiana.jpg Graphic file (type jpg)
+<use images/thumbs/guarea_kunthiana.jpg>
+Package pdftex.def Info: images/thumbs/guarea_kunthiana.jpg  used on input line
+ 117.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [61 <./images/thumbs/guarea_guidonia.jpg>]
+<images/thumbs/guarea_macrophylla.jpg, id=553, 642.4pt x 642.4pt>
+File: images/thumbs/guarea_macrophylla.jpg Graphic file (type jpg)
+<use images/thumbs/guarea_macrophylla.jpg>
+Package pdftex.def Info: images/thumbs/guarea_macrophylla.jpg  used on input li
+ne 119.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [62 <./images/thumbs/guarea_kunthiana.jpg>]
+<images/thumbs/guarea_pterorhachis.jpg, id=558, 642.4pt x 642.4pt>
+File: images/thumbs/guarea_pterorhachis.jpg Graphic file (type jpg)
+<use images/thumbs/guarea_pterorhachis.jpg>
+Package pdftex.def Info: images/thumbs/guarea_pterorhachis.jpg  used on input l
+ine 121.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [63 <./images/thumbs/guarea_macrophylla.jpg>]
+<images/thumbs/guarea_purusana.jpg, id=563, 642.4pt x 642.4pt>
+File: images/thumbs/guarea_purusana.jpg Graphic file (type jpg)
+<use images/thumbs/guarea_purusana.jpg>
+Package pdftex.def Info: images/thumbs/guarea_purusana.jpg  used on input line 
+123.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+
+[64 <./images/thumbs/guarea_pterorhachis.jpg>]
+<images/thumbs/trichilia_laxipaniculata.jpg, id=568, 642.4pt x 642.4pt>
+File: images/thumbs/trichilia_laxipaniculata.jpg Graphic file (type jpg)
+<use images/thumbs/trichilia_laxipaniculata.jpg>
+Package pdftex.def Info: images/thumbs/trichilia_laxipaniculata.jpg  used on in
+put line 125.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [65 <./images/thumbs/guarea_purusana.jpg>]
+<images/thumbs/mollinedia_ovata.jpg, id=573, 642.4pt x 642.4pt>
+File: images/thumbs/mollinedia_ovata.jpg Graphic file (type jpg)
+<use images/thumbs/mollinedia_ovata.jpg>
+Package pdftex.def Info: images/thumbs/mollinedia_ovata.jpg  used on input line
+ 127.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [66 <./images/thumbs/trichilia_laxipaniculata.jpg>]
+<images/thumbs/batocarpus_orinocensis.jpg, id=579, 642.4pt x 642.4pt>
+File: images/thumbs/batocarpus_orinocensis.jpg Graphic file (type jpg)
+<use images/thumbs/batocarpus_orinocensis.jpg>
+Package pdftex.def Info: images/thumbs/batocarpus_orinocensis.jpg  used on inpu
+t line 129.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [67 <./images/thumbs/mollinedia_ovata.jpg>]
+<images/thumbs/clarisia_biflora.jpg, id=584, 642.4pt x 642.4pt>
+File: images/thumbs/clarisia_biflora.jpg Graphic file (type jpg)
+<use images/thumbs/clarisia_biflora.jpg>
+Package pdftex.def Info: images/thumbs/clarisia_biflora.jpg  used on input line
+ 131.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [68 <./images/thumbs/batocarpus_orinocensis.jpg>]
+<images/thumbs/ficus_maxima.jpg, id=589, 642.4pt x 642.4pt>
+File: images/thumbs/ficus_maxima.jpg Graphic file (type jpg)
+<use images/thumbs/ficus_maxima.jpg>
+Package pdftex.def Info: images/thumbs/ficus_maxima.jpg  used on input line 133
+.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+
+[69 <./images/thumbs/clarisia_biflora.jpg>]
+<images/thumbs/ficus_mutisii.jpg, id=594, 642.4pt x 642.4pt>
+File: images/thumbs/ficus_mutisii.jpg Graphic file (type jpg)
+<use images/thumbs/ficus_mutisii.jpg>
+Package pdftex.def Info: images/thumbs/ficus_mutisii.jpg  used on input line 13
+5.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [70 <./images/thumbs/ficus_maxima.jpg>]
+<images/thumbs/naucleopsis_ulei.jpg, id=599, 642.4pt x 642.4pt>
+File: images/thumbs/naucleopsis_ulei.jpg Graphic file (type jpg)
+<use images/thumbs/naucleopsis_ulei.jpg>
+Package pdftex.def Info: images/thumbs/naucleopsis_ulei.jpg  used on input line
+ 137.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [71 <./images/thumbs/ficus_mutisii.jpg>]
+<images/thumbs/perebea_xanthochyma.jpg, id=604, 642.4pt x 642.4pt>
+File: images/thumbs/perebea_xanthochyma.jpg Graphic file (type jpg)
+<use images/thumbs/perebea_xanthochyma.jpg>
+Package pdftex.def Info: images/thumbs/perebea_xanthochyma.jpg  used on input l
+ine 139.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [72 <./images/thumbs/naucleopsis_ulei.jpg>]
+<images/thumbs/pseudolmedia_laevis.jpg, id=610, 642.4pt x 642.4pt>
+File: images/thumbs/pseudolmedia_laevis.jpg Graphic file (type jpg)
+<use images/thumbs/pseudolmedia_laevis.jpg>
+Package pdftex.def Info: images/thumbs/pseudolmedia_laevis.jpg  used on input l
+ine 141.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [73 <./images/thumbs/perebea_xanthochyma.jpg>]
+<images/thumbs/sorocea_muriculata.jpg, id=615, 642.4pt x 642.4pt>
+File: images/thumbs/sorocea_muriculata.jpg Graphic file (type jpg)
+<use images/thumbs/sorocea_muriculata.jpg>
+Package pdftex.def Info: images/thumbs/sorocea_muriculata.jpg  used on input li
+ne 143.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [74 <./images/thumbs/pseudolmedia_laevis.jpg>]
+<images/thumbs/sorocea_steinbachii.jpg, id=620, 642.4pt x 642.4pt>
+File: images/thumbs/sorocea_steinbachii.jpg Graphic file (type jpg)
+<use images/thumbs/sorocea_steinbachii.jpg>
+Package pdftex.def Info: images/thumbs/sorocea_steinbachii.jpg  used on input l
+ine 145.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [75 <./images/thumbs/sorocea_muriculata.jpg>]
+<images/thumbs/compsoneura_sprucei.jpg, id=625, 642.4pt x 642.4pt>
+File: images/thumbs/compsoneura_sprucei.jpg Graphic file (type jpg)
+<use images/thumbs/compsoneura_sprucei.jpg>
+Package pdftex.def Info: images/thumbs/compsoneura_sprucei.jpg  used on input l
+ine 147.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+
+[76 <./images/thumbs/sorocea_steinbachii.jpg>]
+<images/thumbs/iryanthera_juruensis.jpg, id=630, 642.4pt x 642.4pt>
+File: images/thumbs/iryanthera_juruensis.jpg Graphic file (type jpg)
+<use images/thumbs/iryanthera_juruensis.jpg>
+Package pdftex.def Info: images/thumbs/iryanthera_juruensis.jpg  used on input 
+line 149.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [77 <./images/thumbs/compsoneura_sprucei.jpg>]
+<images/thumbs/osteophloeum_platyspermum.jpg, id=635, 642.4pt x 642.4pt>
+File: images/thumbs/osteophloeum_platyspermum.jpg Graphic file (type jpg)
+<use images/thumbs/osteophloeum_platyspermum.jpg>
+Package pdftex.def Info: images/thumbs/osteophloeum_platyspermum.jpg  used on i
+nput line 151.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [78 <./images/thumbs/iryanthera_juruensis.jpg>]
+<images/thumbs/otoba_glycycarpa.jpg, id=641, 642.4pt x 642.4pt>
+File: images/thumbs/otoba_glycycarpa.jpg Graphic file (type jpg)
+<use images/thumbs/otoba_glycycarpa.jpg>
+Package pdftex.def Info: images/thumbs/otoba_glycycarpa.jpg  used on input line
+ 153.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [79 <./images/thumbs/osteophloeum_platyspermum.jpg>]
+<images/thumbs/otoba_parvifolia.jpg, id=647, 642.4pt x 642.4pt>
+File: images/thumbs/otoba_parvifolia.jpg Graphic file (type jpg)
+<use images/thumbs/otoba_parvifolia.jpg>
+Package pdftex.def Info: images/thumbs/otoba_parvifolia.jpg  used on input line
+ 155.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [80 <./images/thumbs/otoba_glycycarpa.jpg>]
+<images/thumbs/virola_calophylla.jpg, id=652, 642.4pt x 642.4pt>
+File: images/thumbs/virola_calophylla.jpg Graphic file (type jpg)
+<use images/thumbs/virola_calophylla.jpg>
+Package pdftex.def Info: images/thumbs/virola_calophylla.jpg  used on input lin
+e 157.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [81 <./images/thumbs/otoba_parvifolia.jpg>]
+<images/thumbs/virola_elongata.jpg, id=657, 642.4pt x 642.4pt>
+File: images/thumbs/virola_elongata.jpg Graphic file (type jpg)
+<use images/thumbs/virola_elongata.jpg>
+Package pdftex.def Info: images/thumbs/virola_elongata.jpg  used on input line 
+159.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [82 <./images/thumbs/virola_calophylla.jpg>]
+<images/thumbs/virola_pavonis.jpg, id=662, 642.4pt x 642.4pt>
+File: images/thumbs/virola_pavonis.jpg Graphic file (type jpg)
+<use images/thumbs/virola_pavonis.jpg>
+Package pdftex.def Info: images/thumbs/virola_pavonis.jpg  used on input line 1
+61.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [83 <./images/thumbs/virola_elongata.jpg>]
+<images/thumbs/heisteria_spruceana.jpg, id=667, 642.4pt x 642.4pt>
+File: images/thumbs/heisteria_spruceana.jpg Graphic file (type jpg)
+<use images/thumbs/heisteria_spruceana.jpg>
+Package pdftex.def Info: images/thumbs/heisteria_spruceana.jpg  used on input l
+ine 163.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [84 <./images/thumbs/virola_pavonis.jpg>]
+<images/thumbs/minquartia_guianensis.jpg, id=673, 642.4pt x 642.4pt>
+File: images/thumbs/minquartia_guianensis.jpg Graphic file (type jpg)
+<use images/thumbs/minquartia_guianensis.jpg>
+Package pdftex.def Info: images/thumbs/minquartia_guianensis.jpg  used on input
+ line 165.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [85 <./images/thumbs/heisteria_spruceana.jpg>]
+<images/thumbs/geonoma_macrostachys.jpg, id=678, 642.4pt x 642.4pt>
+File: images/thumbs/geonoma_macrostachys.jpg Graphic file (type jpg)
+<use images/thumbs/geonoma_macrostachys.jpg>
+Package pdftex.def Info: images/thumbs/geonoma_macrostachys.jpg  used on input 
+line 167.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [86 <./images/thumbs/minquartia_guianensis.jpg>]
+<images/thumbs/margaritaria_nobilis.jpg, id=683, 642.4pt x 642.4pt>
+File: images/thumbs/margaritaria_nobilis.jpg Graphic file (type jpg)
+<use images/thumbs/margaritaria_nobilis.jpg>
+Package pdftex.def Info: images/thumbs/margaritaria_nobilis.jpg  used on input 
+line 169.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [87 <./images/thumbs/geonoma_macrostachys.jpg>]
+<images/thumbs/pecluma_pectinata.jpg, id=688, 642.4pt x 642.4pt>
+File: images/thumbs/pecluma_pectinata.jpg Graphic file (type jpg)
+<use images/thumbs/pecluma_pectinata.jpg>
+Package pdftex.def Info: images/thumbs/pecluma_pectinata.jpg  used on input lin
+e 171.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [88 <./images/thumbs/margaritaria_nobilis.jpg>]
+<images/thumbs/clavija_venosa.jpg, id=693, 642.4pt x 642.4pt>
+File: images/thumbs/clavija_venosa.jpg Graphic file (type jpg)
+<use images/thumbs/clavija_venosa.jpg>
+Package pdftex.def Info: images/thumbs/clavija_venosa.jpg  used on input line 1
+73.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [89 <./images/thumbs/pecluma_pectinata.jpg>]
+<images/thumbs/clavija_weberbaueri.jpg, id=698, 642.4pt x 642.4pt>
+File: images/thumbs/clavija_weberbaueri.jpg Graphic file (type jpg)
+<use images/thumbs/clavija_weberbaueri.jpg>
+Package pdftex.def Info: images/thumbs/clavija_weberbaueri.jpg  used on input l
+ine 175.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [90 <./images/thumbs/clavija_venosa.jpg>]
+<images/thumbs/pityrogramma_trifoliata.jpg, id=704, 642.4pt x 642.4pt>
+File: images/thumbs/pityrogramma_trifoliata.jpg Graphic file (type jpg)
+<use images/thumbs/pityrogramma_trifoliata.jpg>
+Package pdftex.def Info: images/thumbs/pityrogramma_trifoliata.jpg  used on inp
+ut line 177.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [91 <./images/thumbs/clavija_weberbaueri.jpg>]
+<images/thumbs/drypetes_amazonica.jpg, id=709, 642.4pt x 642.4pt>
+File: images/thumbs/drypetes_amazonica.jpg Graphic file (type jpg)
+<use images/thumbs/drypetes_amazonica.jpg>
+Package pdftex.def Info: images/thumbs/drypetes_amazonica.jpg  used on input li
+ne 179.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [92 <./images/thumbs/pityrogramma_trifoliata.jpg>]
+<images/thumbs/colubrina_spinosa.jpg, id=714, 642.4pt x 642.4pt>
+File: images/thumbs/colubrina_spinosa.jpg Graphic file (type jpg)
+<use images/thumbs/colubrina_spinosa.jpg>
+Package pdftex.def Info: images/thumbs/colubrina_spinosa.jpg  used on input lin
+e 181.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+
+[93 <./images/thumbs/drypetes_amazonica.jpg>]
+<images/thumbs/chimarrhis_glabriflora.jpg, id=719, 642.4pt x 642.4pt>
+File: images/thumbs/chimarrhis_glabriflora.jpg Graphic file (type jpg)
+<use images/thumbs/chimarrhis_glabriflora.jpg>
+Package pdftex.def Info: images/thumbs/chimarrhis_glabriflora.jpg  used on inpu
+t line 183.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [94 <./images/thumbs/colubrina_spinosa.jpg>]
+<images/thumbs/chimarrhis_hookeri.jpg, id=724, 642.4pt x 642.4pt>
+File: images/thumbs/chimarrhis_hookeri.jpg Graphic file (type jpg)
+<use images/thumbs/chimarrhis_hookeri.jpg>
+Package pdftex.def Info: images/thumbs/chimarrhis_hookeri.jpg  used on input li
+ne 185.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [95 <./images/thumbs/chimarrhis_glabriflora.jpg>]
+<images/thumbs/duroia_hirsuta.jpg, id=729, 642.4pt x 642.4pt>
+File: images/thumbs/duroia_hirsuta.jpg Graphic file (type jpg)
+<use images/thumbs/duroia_hirsuta.jpg>
+Package pdftex.def Info: images/thumbs/duroia_hirsuta.jpg  used on input line 1
+87.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [96 <./images/thumbs/chimarrhis_hookeri.jpg>]
+<images/thumbs/faramea_glandulosa.jpg, id=735, 642.4pt x 642.4pt>
+File: images/thumbs/faramea_glandulosa.jpg Graphic file (type jpg)
+<use images/thumbs/faramea_glandulosa.jpg>
+Package pdftex.def Info: images/thumbs/faramea_glandulosa.jpg  used on input li
+ne 189.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [97 <./images/thumbs/duroia_hirsuta.jpg>]
+<images/thumbs/palicourea_jatun_sachensis.jpg, id=740, 642.4pt x 642.4pt>
+File: images/thumbs/palicourea_jatun_sachensis.jpg Graphic file (type jpg)
+<use images/thumbs/palicourea_jatun_sachensis.jpg>
+Package pdftex.def Info: images/thumbs/palicourea_jatun_sachensis.jpg  used on 
+input line 191.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [98 <./images/thumbs/faramea_glandulosa.jpg>]
+<images/thumbs/pentagonia_macrophylla.jpg, id=745, 642.4pt x 642.4pt>
+File: images/thumbs/pentagonia_macrophylla.jpg Graphic file (type jpg)
+<use images/thumbs/pentagonia_macrophylla.jpg>
+Package pdftex.def Info: images/thumbs/pentagonia_macrophylla.jpg  used on inpu
+t line 193.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [99 <./images/thumbs/palicourea_jatun_sachensis.jpg>]
+<images/thumbs/pentagonia_spathicalyx.jpg, id=750, 642.4pt x 642.4pt>
+File: images/thumbs/pentagonia_spathicalyx.jpg Graphic file (type jpg)
+<use images/thumbs/pentagonia_spathicalyx.jpg>
+Package pdftex.def Info: images/thumbs/pentagonia_spathicalyx.jpg  used on inpu
+t line 195.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [100 <./images/thumbs/pentagonia_macrophylla.jpg>]
+<images/thumbs/psychotria_flaviflora.jpg, id=755, 642.4pt x 642.4pt>
+File: images/thumbs/psychotria_flaviflora.jpg Graphic file (type jpg)
+<use images/thumbs/psychotria_flaviflora.jpg>
+Package pdftex.def Info: images/thumbs/psychotria_flaviflora.jpg  used on input
+ line 197.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [101 <./images/thumbs/pentagonia_spathicalyx.jpg>]
+<images/thumbs/psychotria_officinalis.jpg, id=760, 642.4pt x 642.4pt>
+File: images/thumbs/psychotria_officinalis.jpg Graphic file (type jpg)
+<use images/thumbs/psychotria_officinalis.jpg>
+Package pdftex.def Info: images/thumbs/psychotria_officinalis.jpg  used on inpu
+t line 199.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [102 <./images/thumbs/psychotria_flaviflora.jpg>]
+<images/thumbs/psychotria_stenostachya.jpg, id=766, 642.4pt x 642.4pt>
+File: images/thumbs/psychotria_stenostachya.jpg Graphic file (type jpg)
+<use images/thumbs/psychotria_stenostachya.jpg>
+Package pdftex.def Info: images/thumbs/psychotria_stenostachya.jpg  used on inp
+ut line 201.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [103 <./images/thumbs/psychotria_officinalis.jpg>]
+<images/thumbs/psychotria_viridis.jpg, id=771, 642.4pt x 642.4pt>
+File: images/thumbs/psychotria_viridis.jpg Graphic file (type jpg)
+<use images/thumbs/psychotria_viridis.jpg>
+Package pdftex.def Info: images/thumbs/psychotria_viridis.jpg  used on input li
+ne 203.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [104 <./images/thumbs/psychotria_stenostachya.jpg>]
+<images/thumbs/casearia_combaymensis.jpg, id=776, 642.4pt x 642.4pt>
+File: images/thumbs/casearia_combaymensis.jpg Graphic file (type jpg)
+<use images/thumbs/casearia_combaymensis.jpg>
+Package pdftex.def Info: images/thumbs/casearia_combaymensis.jpg  used on input
+ line 205.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [105 <./images/thumbs/psychotria_viridis.jpg>]
+<images/thumbs/casearia_pitumba.jpg, id=781, 642.4pt x 642.4pt>
+File: images/thumbs/casearia_pitumba.jpg Graphic file (type jpg)
+<use images/thumbs/casearia_pitumba.jpg>
+Package pdftex.def Info: images/thumbs/casearia_pitumba.jpg  used on input line
+ 207.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+
+[106 <./images/thumbs/casearia_combaymensis.jpg>]
+<images/thumbs/hasseltia_floribunda.jpg, id=786, 642.4pt x 642.4pt>
+File: images/thumbs/hasseltia_floribunda.jpg Graphic file (type jpg)
+<use images/thumbs/hasseltia_floribunda.jpg>
+Package pdftex.def Info: images/thumbs/hasseltia_floribunda.jpg  used on input 
+line 209.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [107 <./images/thumbs/casearia_pitumba.jpg>]
+<images/thumbs/lunania_parviflora.jpg, id=791, 642.4pt x 642.4pt>
+File: images/thumbs/lunania_parviflora.jpg Graphic file (type jpg)
+<use images/thumbs/lunania_parviflora.jpg>
+Package pdftex.def Info: images/thumbs/lunania_parviflora.jpg  used on input li
+ne 211.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [108 <./images/thumbs/hasseltia_floribunda.jpg>]
+<images/thumbs/pleuranthodendron_lindenii.jpg, id=797, 642.4pt x 642.4pt>
+File: images/thumbs/pleuranthodendron_lindenii.jpg Graphic file (type jpg)
+<use images/thumbs/pleuranthodendron_lindenii.jpg>
+Package pdftex.def Info: images/thumbs/pleuranthodendron_lindenii.jpg  used on 
+input line 213.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [109 <./images/thumbs/lunania_parviflora.jpg>]
+<images/thumbs/tetrathylacium_macrophyllum.jpg, id=803, 642.4pt x 642.4pt>
+File: images/thumbs/tetrathylacium_macrophyllum.jpg Graphic file (type jpg)
+<use images/thumbs/tetrathylacium_macrophyllum.jpg>
+Package pdftex.def Info: images/thumbs/tetrathylacium_macrophyllum.jpg  used on
+ input line 215.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [110 <./images/thumbs/pleuranthodendron_lindenii.jpg>]
+<images/thumbs/chrysophyllum_venezuelanense.jpg, id=808, 642.4pt x 642.4pt>
+File: images/thumbs/chrysophyllum_venezuelanense.jpg Graphic file (type jpg)
+<use images/thumbs/chrysophyllum_venezuelanense.jpg>
+Package pdftex.def Info: images/thumbs/chrysophyllum_venezuelanense.jpg  used o
+n input line 217.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [111 <./images/thumbs/tetrathylacium_macrophyllum.jpg>]
+<images/thumbs/pouteria_torta_subsp_tuberculata.jpg, id=813, 642.4pt x 642.4pt>
+
+File: images/thumbs/pouteria_torta_subsp_tuberculata.jpg Graphic file (type jpg
+)
+<use images/thumbs/pouteria_torta_subsp_tuberculata.jpg>
+Package pdftex.def Info: images/thumbs/pouteria_torta_subsp_tuberculata.jpg  us
+ed on input line 219.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [112 <./images/thumbs/chrysophyllum_venezuelanense.jpg>]
+<images/thumbs/siparuna_cervicornis.jpg, id=818, 642.4pt x 642.4pt>
+File: images/thumbs/siparuna_cervicornis.jpg Graphic file (type jpg)
+<use images/thumbs/siparuna_cervicornis.jpg>
+Package pdftex.def Info: images/thumbs/siparuna_cervicornis.jpg  used on input 
+line 221.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [113 <./images/thumbs/pouteria_torta_subsp_tuberculata.jpg>]
+<images/thumbs/siparuna_macrotepala.jpg, id=823, 642.4pt x 642.4pt>
+File: images/thumbs/siparuna_macrotepala.jpg Graphic file (type jpg)
+<use images/thumbs/siparuna_macrotepala.jpg>
+Package pdftex.def Info: images/thumbs/siparuna_macrotepala.jpg  used on input 
+line 223.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [114 <./images/thumbs/siparuna_cervicornis.jpg>]
+<images/thumbs/siparuna_schimpffii.jpg, id=829, 642.4pt x 642.4pt>
+File: images/thumbs/siparuna_schimpffii.jpg Graphic file (type jpg)
+<use images/thumbs/siparuna_schimpffii.jpg>
+Package pdftex.def Info: images/thumbs/siparuna_schimpffii.jpg  used on input l
+ine 225.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+
+[115 <./images/thumbs/siparuna_macrotepala.jpg>]
+<images/thumbs/siparuna_thecaphora.jpg, id=834, 642.4pt x 642.4pt>
+File: images/thumbs/siparuna_thecaphora.jpg Graphic file (type jpg)
+<use images/thumbs/siparuna_thecaphora.jpg>
+Package pdftex.def Info: images/thumbs/siparuna_thecaphora.jpg  used on input l
+ine 227.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [116 <./images/thumbs/siparuna_schimpffii.jpg>]
+<images/thumbs/solanum_sessile.jpg, id=839, 642.4pt x 642.4pt>
+File: images/thumbs/solanum_sessile.jpg Graphic file (type jpg)
+<use images/thumbs/solanum_sessile.jpg>
+Package pdftex.def Info: images/thumbs/solanum_sessile.jpg  used on input line 
+229.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [117 <./images/thumbs/siparuna_thecaphora.jpg>]
+<images/thumbs/ampelocera_longissima.jpg, id=844, 642.4pt x 642.4pt>
+File: images/thumbs/ampelocera_longissima.jpg Graphic file (type jpg)
+<use images/thumbs/ampelocera_longissima.jpg>
+Package pdftex.def Info: images/thumbs/ampelocera_longissima.jpg  used on input
+ line 231.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [118 <./images/thumbs/solanum_sessile.jpg>]
+<images/thumbs/pourouma_minor.jpg, id=849, 642.4pt x 642.4pt>
+File: images/thumbs/pourouma_minor.jpg Graphic file (type jpg)
+<use images/thumbs/pourouma_minor.jpg>
+Package pdftex.def Info: images/thumbs/pourouma_minor.jpg  used on input line 2
+33.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [119 <./images/thumbs/ampelocera_longissima.jpg>]
+<images/thumbs/citharexylum_poeppigii.jpg, id=854, 642.4pt x 642.4pt>
+File: images/thumbs/citharexylum_poeppigii.jpg Graphic file (type jpg)
+<use images/thumbs/citharexylum_poeppigii.jpg>
+Package pdftex.def Info: images/thumbs/citharexylum_poeppigii.jpg  used on inpu
+t line 235.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [120 <./images/thumbs/pourouma_minor.jpg>]
+<images/thumbs/leonia_glycycarpa.jpg, id=860, 642.4pt x 642.4pt>
+File: images/thumbs/leonia_glycycarpa.jpg Graphic file (type jpg)
+<use images/thumbs/leonia_glycycarpa.jpg>
+Package pdftex.def Info: images/thumbs/leonia_glycycarpa.jpg  used on input lin
+e 237.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [121 <./images/thumbs/citharexylum_poeppigii.jpg>]
+<images/thumbs/erisma_uncinatum.jpg, id=865, 642.4pt x 642.4pt>
+File: images/thumbs/erisma_uncinatum.jpg Graphic file (type jpg)
+<use images/thumbs/erisma_uncinatum.jpg>
+Package pdftex.def Info: images/thumbs/erisma_uncinatum.jpg  used on input line
+ 239.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [122 <./images/thumbs/leonia_glycycarpa.jpg>]
+<images/thumbs/renealmia_breviscapa.jpg, id=870, 642.4pt x 642.4pt>
+File: images/thumbs/renealmia_breviscapa.jpg Graphic file (type jpg)
+<use images/thumbs/renealmia_breviscapa.jpg>
+Package pdftex.def Info: images/thumbs/renealmia_breviscapa.jpg  used on input 
+line 241.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [123 <./images/thumbs/erisma_uncinatum.jpg>]
+<images/thumbs/renealmia_monosperma.jpg, id=875, 642.4pt x 642.4pt>
+File: images/thumbs/renealmia_monosperma.jpg Graphic file (type jpg)
+<use images/thumbs/renealmia_monosperma.jpg>
+Package pdftex.def Info: images/thumbs/renealmia_monosperma.jpg  used on input 
+line 243.
+(pdftex.def)             Requested size: 324.36038pt x 324.36533pt.
+ [124 <./images/thumbs/renealmia_breviscapa.jpg>])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 83.
+
+[125 <./images/thumbs/renealmia_monosperma.jpg>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 83.
+ (./jatun_sacha_manu.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 83.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 83.
+Package rerunfilecheck Info: File `jatun_sacha_manu.out' has not changed.
+(rerunfilecheck)             Checksum: 6C425383960C115AF3F08533CE54ACAB;2426.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 83.
+ ) 
+Here is how much of TeX's memory you used:
+ 6961 strings out of 492147
+ 122054 string characters out of 6119224
+ 188534 words of memory out of 5000000
+ 10937 multiletter control sequences out of 15000+600000
+ 32176 words of font info for 44 fonts, out of 8000000 for 9000
+ 1155 hyphenation exceptions out of 8191
+ 39i,8n,29p,1063b,358s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/home/alexey/bin/local/texlive/2019/texmf-dist/fonts/enc/dvips/paratype/ptse
+rif_ot1.enc}</home/alexey/bin/local/texlive/2019/texmf-dist/fonts/type1/paratyp
+e/ptserif/PTF55F.pfb></home/alexey/bin/local/texlive/2019/texmf-dist/fonts/type
+1/paratype/ptserif/PTF56F.pfb></home/alexey/bin/local/texlive/2019/texmf-dist/f
+onts/type1/paratype/ptserif/PTF75F.pfb></home/alexey/bin/local/texlive/2019/tex
+mf-dist/fonts/type1/paratype/ptserif/PTF76F.pfb></home/alexey/bin/local/texlive
+/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></home/alexey/bin/lo
+cal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on jatun_sacha_manu.pdf (126 pages, 7533821 bytes).
+PDF statistics:
+ 948 PDF objects out of 1000 (max. 8388607)
+ 685 compressed objects within 7 object streams
+ 172 named destinations out of 1000 (max. 500000)
+ 955 words of extra memory for PDF output out of 10000 (max. 10000000)
+

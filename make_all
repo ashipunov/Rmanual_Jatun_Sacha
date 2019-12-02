@@ -1,0 +1,5 @@
+#!/bin/bash
+
+Rscript jatun_sacha_manu.r
+pdflatex jatun_sacha_manu.tex
+pdflatex jatun_sacha_manu.tex
